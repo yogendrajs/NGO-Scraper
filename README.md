@@ -1,6 +1,6 @@
 # NGO-Scraper
 
-In this project, I have scraped the data of all the NGOs that donate funds certified by GiveIndia at `https://www.giveindia.org/certified-indian-ngos` according to their Location, and I have stored all the data in the `ngo_scraper.json` file.
+In this project, I have scraped the data of all the NGOs that donate funds certified by **GiveIndia** at `https://www.giveindia.org/certified-indian-ngos` according to their Location, and I have stored all the data in the `ngo_scraper.json` file.
 
 ## Requirements
 
