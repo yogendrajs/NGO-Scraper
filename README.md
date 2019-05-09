@@ -8,8 +8,8 @@ In this project, I have scraped the data of all the NGOs that donate funds certi
 
 Beautiful Soup is a Python package for parsing HTML and XML documents. It creates a parse tree for parsed pages that can be used to extract data from HTML, which is useful for web scraping. If you're using Linux based OS, you can install BeautifulSoup using following command in terminal.
 
-Here, pip is a package-management system used to install and manage software packages written in Python
-```sudo apt-get update && sudo apt-get install python3-pip (Python3).
+Here, pip is a package-management system used to install and manage software packages written in Python.
+```sudo apt-get update && sudo apt-get install python3-pip
 pip3 install beautifulsoup4
 ```
 
