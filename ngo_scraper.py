@@ -1,7 +1,4 @@
-import requests
-import json
-import os
-import pprint
+import requests, json, os, pprint
 from os import path
 from bs4 import BeautifulSoup
 
